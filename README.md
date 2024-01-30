@@ -69,8 +69,15 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
-
 # 작업순서
+
 Git Repostiroy 생성(reactnote)
 Terminal에서 현재 폴더에 react app 생성(yarn create react-app)
 git 연동 및 로컬 commit, 이후 remote repository push
+Extension(ESLint, Prettier - Code formmatter) 설치 후 eslintrc 작성, 환경 설정(Format on Save, Default Formatter, javascript formatter disabled), 해당 규칙에 맞게 js 파일 수정
+
+이후 예정 작업
+DB 연동
+Antd 디자인
+AG-Grid
+ApexChart
