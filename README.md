@@ -68,3 +68,9 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `yarn build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+# 작업순서
+Git Repostiroy 생성(reactnote)
+Terminal에서 현재 폴더에 react app 생성(yarn create react-app)
+git 연동 및 로컬 commit, 이후 remote repository push
